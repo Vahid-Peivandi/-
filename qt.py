@@ -171,3 +171,4 @@ def b2_clicked():
 if __name__ == '__main__':
     # barayeh dastrsiyeh majolle be sorate sarasari ast
 window()
+
